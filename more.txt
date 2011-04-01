@@ -1,0 +1,6 @@
+bbbb.bbb
+more.txt
+newfile.txt
+README
+subdir
+testing.txt
